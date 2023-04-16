@@ -1,0 +1,19 @@
+.lista-supensa {
+  margin: 24px 0;
+}
+
+.lista-supensa label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 24px;
+}
+
+.lista-supensa select {
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.08);
+  border: none;
+  font-size: 14px;
+  padding: 24px;
+  color: rgb(61, 61, 61)!important;
+}
